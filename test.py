@@ -8,5 +8,5 @@ class Pinexu():
     
     def __getitem__(id):
         return self.id
-        
+        666
         
